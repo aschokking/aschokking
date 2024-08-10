@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm passionate about Robotics, prototyping and making useful things quickly.\
+🌱 &nbsp;I'm passionate about Robotics, prototyping and making useful things quickly.
 
 
 ### 🛠 &nbsp;Tech Stack
