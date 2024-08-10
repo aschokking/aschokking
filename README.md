@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Public Repo GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/aschokking">
